@@ -1,0 +1,21 @@
+p {
+  line-height: 1.5;
+  margin: 40px 0;
+}
+body {
+  width: 100%;
+}
+main{
+    padding: 40px 0;
+ width: 35%;         /* Set your preferred content width */
+            max-width: 1200px;  /* Prevents it from getting too wide on large screens */
+            margin: 0 auto;     /* 0 top/bottom margin, auto left/right centers it */}
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 40px 0;
+}
+
+a{
+    font-size: large;
+}
